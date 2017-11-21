@@ -2,7 +2,7 @@
 
 A headless chrome scraper for Ventusky
 
-## Instalation
+## Installation
 
 To install make sure you have Node, and then run
 ```
@@ -25,7 +25,7 @@ bash makegif.sh
 
 ## Configuration
 
-TODO. Instructions to run are on the respective files.
+TODO. Tweaks and parameters are on the respective files.
 
 
 ## License
