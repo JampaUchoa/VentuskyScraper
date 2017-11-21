@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 
 var days = 365; // Ammount of days
-var breaks = 4; // How many prints per day
+var breaks = 4; // How many screenshots per day
 
 var date = new Date();
 date.setDate(date.getDate() - days); // Rewind the date
